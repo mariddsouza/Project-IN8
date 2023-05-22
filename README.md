@@ -1,2 +1,7 @@
 # Project IN8 test
-Create a EC2 server with a cloudwatch alarm when the CPU capacity 90%
+- Elasticidade 
+- Servidores EC2 
+- Monitoramento de Servidores (CloudWatch) 
+- Se tiver mais de 90% de CPU um novo servidor é criado  
+- Servidor com wordpress  
+- Porta 80 exposta para internet e porta 22 apenas para meu IP 
