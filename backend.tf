@@ -62,7 +62,6 @@ resource "aws_autoscaling_group" "escalonamento-server" {
 
   tag {
     key                 = "Escalonamento-server-key"
-    value               = "example-instance"
     propagate_at_launch = true
   }
 
